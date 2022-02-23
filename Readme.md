@@ -49,7 +49,7 @@ Python:
      https://www.python.org/
      
  
-# Password Generator -Django
+# Book Store Application
 
 ## Getting Started
 
