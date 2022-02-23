@@ -2,6 +2,6 @@
 *~  
 __pycache__  
 myvenv  
-book.db.sqlite3  
+book.db  
 /static  
 .DS_Store
