@@ -22,7 +22,7 @@ The goal of this project is to create a Book Store Appication  **Tkinter**
 
 ## Folder directory of the Project
 ```              
-📦BookStoreApplication(GUI)
+📦BookStore_Application
  ┣ 📂__pycache__
  ┃ ┗ 📜backend.cpython-39.pyc
  ┣ 📜.gitignore
