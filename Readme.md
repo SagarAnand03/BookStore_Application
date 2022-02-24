@@ -10,15 +10,6 @@ The goal of this project is to create a Book Store Appication  **Tkinter**
 
 * user can make update's to current database by selecting data , modify and Update
 
-* 
-
-* 
-
-![Default Home view](Readme_files/output_page.png)
-
-* 
-
-![Default Home view](Readme_files/about.png)
 
 ## Folder directory of the Project
 ```              
