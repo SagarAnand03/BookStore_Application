@@ -34,12 +34,28 @@ Note:- Some of  file are only visible after  runing the development
 Python:
      
      Python 3.9.9
+
+PIP :
+   
+     pip 21.2.4     
+     
+Tkinter:
+     
+     Tkinter 8.6.12
      
 ## Install project dependencies:(**Ignore if you have following dependencies in you computer**)
 
 Python:
      
      https://www.python.org/
+
+PIP :
+   
+     python get-pip.py     
+     
+Tkinter:
+     
+     pip install tk
      
  
 # Book Store Application
