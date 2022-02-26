@@ -1,6 +1,6 @@
-# Introduction
+# BookStore Application
 
-The goal of this project is to create a Book Store Appication  **Tkinter**
+The goal of this project is to create a Book Store Application by using **Tkinter**
 
 ![Default Home view](Readme_files/bookapp.png)
 
